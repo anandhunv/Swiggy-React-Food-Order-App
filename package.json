@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Geethuc/foodorderapp.git"
   },
+
   "keywords": [],
   "author": "Anandhu nv",
   "license": "ISC",
@@ -47,4 +48,4 @@
   "browserslist": [
     "last 2 versions"
   ]
-}
+  }
