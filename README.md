@@ -1,5 +1,18 @@
 # Food Ordering App
 
+Screenshots
+
+![page1](screenshots/Home.png)
+![page2](screenshots/menu.png)
+![page3](screenshots/Restro.png)
+![page4](screenshots/Cart.png)
+
+
+
+
+
+# Food Ordering App
+
 -Header
   -logo
   -nav items
@@ -112,8 +125,4 @@ npm i -D @babel/preset-react
 -install a library for toBeInTheDocument
 
 npm i -D @testing-library/jest-dom
-
-
-
-
 
